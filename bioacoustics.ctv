@@ -9,6 +9,10 @@
 
 <info>
 Tools for bioacoustic analysis in R.
+<p><strong>Importing audio data</strong></p>
+<ul>
+<li><pkg>tuneR</pkg> allows the import of wav files as Wave objects.</li>
+</ul>
 </info>
 
 <packagelist>
