@@ -1,11 +1,11 @@
 <CRANTaskView>
 
 <name>Bioacoustics</name>
-<topic>Bioacosutics</topic>
+<topic>Bioacoustics</topic>
 
 <maintainer email="r-bioacoustics@googlegroups.com">R Bioacoustics Group</maintainer> 
 <version>2019-12-21</version> 
-<url>https://github.com/r-bioacoustics/ctv</url>
+<url>https://r-bioacoustics.github.io/bioacoustics-ctv/</url>
 
 <info>
 <p>Tools for bioacoustic analysis in R.</p>
