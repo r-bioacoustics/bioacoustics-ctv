@@ -1,0 +1,23 @@
+<CRANTaskView>
+
+<name>Bioacoustics</name>
+<topic>Bioacosutics</topic>
+
+<maintainer email="r-bioacoustics@googlegroups.com">R Bioacoustics Group</maintainer> 
+<version>2019-12-21</version> 
+<url>https://github.com/r-bioacoustics/ctv</url>
+
+<info>
+Tools for bioacoustic analysis in R.
+</info>
+
+<packagelist>
+<pkg priority="core">tuneR</pkg>
+<pkg>seewave</pkg>
+ </packagelist>
+ 
+<links>
+<a href="http://path/to/homepage/">The Title of a Relevant Homepage</a> <view>TimeSeries</view>
+</links>
+
+</CRANTaskView>
