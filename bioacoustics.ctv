@@ -8,7 +8,7 @@
 <url>https://github.com/r-bioacoustics/ctv</url>
 
 <info>
-Tools for bioacoustic analysis in R.
+<p>Tools for bioacoustic analysis in R.</p>
 <p><strong>Importing audio data</strong></p>
 <ul>
 <li><pkg>tuneR</pkg> allows the import of wav files as Wave objects.</li>
