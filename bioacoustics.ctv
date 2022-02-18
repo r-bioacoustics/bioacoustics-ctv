@@ -20,6 +20,7 @@
 <pkg priority="core">seewave</pkg>
 <pkg>warbleR</pkg>
 <pkg>sonicscredwriver</pkg>
+<pkg>SoundShape</pkg>
 </packagelist>
  
 <links>
