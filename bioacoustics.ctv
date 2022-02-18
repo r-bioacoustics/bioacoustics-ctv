@@ -19,7 +19,7 @@
 <pkg priority="core">tuneR</pkg>
 <pkg priority="core">seewave</pkg>
 <pkg>warbleR</pkg>
-<pkg>sonicscredwriver</pkg>
+<pkg>sonicscrewdriver</pkg>
 <pkg>SoundShape</pkg>
 </packagelist>
  
