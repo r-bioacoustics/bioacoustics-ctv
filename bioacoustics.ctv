@@ -17,11 +17,14 @@
 
 <packagelist>
 <pkg priority="core">tuneR</pkg>
-<pkg>seewave</pkg>
- </packagelist>
+<pkg priority="core">seewave</pkg>
+<pkg>warbleR</pkg>
+<pkg>sonicscredwriver</pkg>
+</packagelist>
  
 <links>
-<a href="http://path/to/homepage/">The Title of a Relevant Homepage</a> <view>TimeSeries</view>
+<a href="https://github.com/DenaJGibbon/gibbonR-package">gibbonR (GitHub)</a> 
+<view>TimeSeries</view>
 </links>
 
 </CRANTaskView>
