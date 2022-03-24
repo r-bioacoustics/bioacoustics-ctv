@@ -3,8 +3,8 @@
 <name>Bioacoustics</name>
 <topic>Bioacoustics</topic>
 
-<maintainer email="r-bioacoustics@googlegroups.com">R Bioacoustics Group</maintainer> 
-<version>2022-02-18</version> 
+<maintainer email="r-bioacoustics@googlegroups.com">R Bioacoustics Group</maintainer>
+<version>2022-02-18</version>
 <url>https://r-bioacoustics.github.io/bioacoustics-ctv/</url>
 
 <info>
@@ -21,10 +21,19 @@
 <pkg>warbleR</pkg>
 <pkg>sonicscrewdriver</pkg>
 <pkg>SoundShape</pkg>
+<pkg>baRulho</pkg>
+<pkg>dynaSpec</pkg>
+<pkg>ohun</pkg>
+<pkg>Rraven</pkg>
+<pkg>audio</pkg>
+<pkg>soundClass</pkg>
+<pkg>soundecology</pkg>
+<pkg>soundgen</pkg>
+<pkg>phonTools</pkg>
 </packagelist>
- 
+
 <links>
-<a href="https://github.com/DenaJGibbon/gibbonR-package">gibbonR (GitHub)</a> 
+<a href="https://github.com/DenaJGibbon/gibbonR-package">gibbonR (GitHub)</a>
 <view>TimeSeries</view>
 </links>
 
