@@ -29,6 +29,7 @@
 <pkg>soundecology</pkg>
 <pkg>soundgen</pkg>
 <pkg>phonTools</pkg>
+<pkg>ohun</pkg>
 </packagelist>
 
 <links>
