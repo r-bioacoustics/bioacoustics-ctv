@@ -12,6 +12,7 @@
 <p><strong>Importing audio data</strong></p>
 <ul>
 <li><pkg>tuneR</pkg> allows the import of wav files as Wave objects.</li>
+<li>The readAudio function of <pkg>sonicscrewdriver</pkg> allows reading multiple file types.</li>
 </ul>
 </info>
 
@@ -20,6 +21,7 @@
 <pkg priority="core">seewave</pkg>
 <pkg>warbleR</pkg>
 <pkg>sonicscrewdriver</pkg>
+<pkg>ReVAMP</pkg>
 <pkg>SoundShape</pkg>
 <pkg>baRulho</pkg>
 <pkg>dynaSpec</pkg>
