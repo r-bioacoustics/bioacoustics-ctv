@@ -16,11 +16,16 @@ Tools for bioacoustic analysis in R.
 - `r pkg("tuneR", priority = "core")` allows the import of wav files as Wave objects.
 - The readAudio function of `r pkg("sonicscrewdriver")` allows reading multiple file types.
 
+### Linking to other tools
+
+- `r pkg("ReVAMP")` allows the use of [Vamp Plugins](https://vamp-plugins.org/) for audio analysis in R.
+
+
 ### Packages to add
 
 `r pkg("warbleR")`
 `r pkg("sonicscrewdriver")`
-`r pkg("ReVAMP")`
+
 `r pkg("SoundShape")`
 `r pkg("baRulho")`
 `r pkg("dynaSpec")`
