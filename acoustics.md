@@ -9,27 +9,25 @@ version: 2025-12-26
 ---
 
 ::: {}
-Tools for bioacoustic analysis in R.
-
 ### Importing audio data
 
-- `r pkg("tuneR", priority = "core")` allows the import of wav files as Wave objects.
+- `r pkg("tuneR", priority = "core")` allows the import of wave files as Wave objects.
 - The readAudio function of `r pkg("sonicscrewdriver")` allows reading multiple file types.
 
 ### Linking to other tools
 
 - `r pkg("ReVAMP")` allows the use of [Vamp Plugins](https://vamp-plugins.org/) for audio analysis in R.
-
+- `r pkg("Rraven")` allows exchanging data with Raven software and R (in particular `r pkg("warbleR")`).
+- `r pkg("sonicscrewdriver")` allows reading and creating Audacity label files (examples: [Interacting with other tools](https://sonicscrewdriver.ebaker.me.uk/articles/other-apps.html))
 
 ### Packages to add
 
 `r pkg("warbleR")`
+`r pkg("av")`
 `r pkg("sonicscrewdriver")`
-
 `r pkg("SoundShape")`
 `r pkg("baRulho")`
-`r pkg("dynaSpec")`
-`r pkg("Rraven")`
+`r pkg("dynaSpec")``
 `r pkg("audio")`
 `r pkg("soundClass")`
 `r pkg("soundecology")`
