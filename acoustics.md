@@ -3,6 +3,8 @@ name: Acoustics
 topic: Acoustics including bioacoustics and ecoacoustics
 maintainer: R Bioacoustics Group
 email: r-bioacoustics@googlegroups.com
+source: https://github.com/r-bioacoustics/bioacoustics-ctv
+url: https://r-bioacoustics.github.io/bioacoustics-ctv/Acoustics.html
 version: 2025-12-26
 ---
 
