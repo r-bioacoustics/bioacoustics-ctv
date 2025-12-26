@@ -21,6 +21,10 @@ version: 2025-12-26
 - `r pkg("Rraven")` allows exchanging data with Raven software and R (in particular `r pkg("warbleR")`).
 - `r pkg("sonicscrewdriver")` allows reading and creating Audacity label files (examples: [Interacting with other tools](https://sonicscrewdriver.ebaker.me.uk/articles/other-apps.html))
 
+### Datasets
+
+- `r pkg("NatureSounds")` includes several example animal sounds.
+
 ### Packages to add
 
 `r pkg("warbleR")`
@@ -34,7 +38,6 @@ version: 2025-12-26
 `r pkg("soundgen")`
 `r pkg("phonTools")`
 `r pkg("ohun")`
-`r pkg("NatureSounds")`
 :::
 
 ### Links
