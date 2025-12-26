@@ -13,6 +13,7 @@ version: 2025-12-26
 
 - `r pkg("tuneR", priority = "core")` allows the import of wave files as Wave objects.
 - The readAudio function of `r pkg("sonicscrewdriver")` allows reading multiple file types.
+- `r pkg("audio")` can record from system sound devices.
 
 ### Linking to other tools
 
@@ -28,7 +29,6 @@ version: 2025-12-26
 `r pkg("SoundShape")`
 `r pkg("baRulho")`
 `r pkg("dynaSpec")``
-`r pkg("audio")`
 `r pkg("soundClass")`
 `r pkg("soundecology")`
 `r pkg("soundgen")`
