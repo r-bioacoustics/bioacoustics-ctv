@@ -16,20 +16,20 @@ Tools for bioacoustic analysis in R.
 
 ### Packages to add
 
-` r pkg("warbleR")`
-` r pkg("sonicscrewdriver")`
-` r pkg("ReVAMP")`
-` r pkg("SoundShape")`
-` r pkg("baRulho")`
-` r pkg("dynaSpec")`
-` r pkg("Rraven")`
-` r pkg("audio")`
-` r pkg("soundClass")`
-` r pkg("soundecology")`
-` r pkg("soundgen")`
-` r pkg("phonTools")`
-` r pkg("ohun")`
-` r pkg("NatureSounds")`
+`r pkg("warbleR")`
+`r pkg("sonicscrewdriver")`
+`r pkg("ReVAMP")`
+`r pkg("SoundShape")`
+`r pkg("baRulho")`
+`r pkg("dynaSpec")`
+`r pkg("Rraven")`
+`r pkg("audio")`
+`r pkg("soundClass")`
+`r pkg("soundecology")`
+`r pkg("soundgen")`
+`r pkg("phonTools")`
+`r pkg("ohun")`
+`r pkg("NatureSounds")`
 :::
 
 ### Links
